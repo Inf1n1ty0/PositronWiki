@@ -2,7 +2,7 @@
 title: Z-Endstop Upgrade
 description: 
 published: true
-date: 2024-10-16T18:40:48.558Z
+date: 2024-10-25T01:30:53.555Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:10:59.209Z
@@ -46,7 +46,7 @@ This is a fairly easy mod requiring minimal soldering skills and minimum code ch
 
 # Guide
 ## Physical Work
-
+If you have a Batch 2 kit with an endstop, skip to step 3.
 1.  Take a standard Endstop with Lever, orient the lever facing down.
     
 2.  Solder wires to Ground and “Normally Closed”
