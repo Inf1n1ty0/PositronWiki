@@ -2,7 +2,7 @@
 title: Pi Imaging
 description: 
 published: true
-date: 2024-10-18T16:37:48.946Z
+date: 2024-10-25T23:47:53.693Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:11:47.615Z
@@ -35,13 +35,11 @@ Download and add the latest printer.cfg file from [Positron GitHub](https://gith
 
 ### Etcher Method
 1. Insert the SD Card and notate the drive letter.
-2. If Etcher flash from URL is not being used download the img.gz from [Here](https://www.googleapis.com/drive/v3/files/1sboY6woogdmHacunRqMUZkNO5GTnQjvf?alt=media&key=AIzaSyA9_7f2w7ftASKMnk38vMI-hAA9T99_rCs), 2GB of space needed. The image is a direct
+2. If Etcher flash from URL is not being used download the img.gz from [Here](https://onedrive.live.com/download?resid=85EA24ADAC21AF56%2119213&authkey=!AC_DbDIB), 2GB of space needed. The image is a direct
 clone of the LDO provided SD Card with the empty space removed.
 3. If using flash from URL, open Etcher, select flash from URL, copy URL from below, and paste in the "Enter Valid URL" box.
 
 ```
-Primary: https://www.googleapis.com/drive/v3/files/1sboY6woogdmHacunRqMUZkNO5GTnQjvf?alt=media&key=AIzaSyA9_7f2w7ftASKMnk38vMI-hAA9T99_rCs
-
 Backup: https://onedrive.live.com/download?resid=85EA24ADAC21AF56%2119213&authkey=!AC_DbDIB
 ```
 4. After the img.gz file or URL has been entered, select the correct SD Card drive letter and click Flash.
