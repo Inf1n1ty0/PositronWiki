@@ -2,7 +2,7 @@
 title: Pi Imaging
 description: 
 published: true
-date: 2024-10-27T02:24:54.363Z
+date: 2024-10-27T02:25:17.161Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:11:47.615Z
@@ -40,7 +40,7 @@ clone of the LDO provided SD Card with the empty space removed.
 3. If using flash from URL, open Etcher, select flash from URL, copy URL from below, and paste in the "Enter Valid URL" box.
 
 ```
-Backup: https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbGF2SWF5dEpPcUZnWllOTDhOc01nSGpDemRGM1E_ZW1iZWQ9MQ/root/content
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbGF2SWF5dEpPcUZnWllOTDhOc01nSGpDemRGM1E_ZW1iZWQ9MQ/root/content
 ```
 4. After the img.gz file or URL has been entered, select the correct SD Card drive letter and click Flash.
 5. Insert SD Card into a powered off Positron, make sure all cables are connected and then turn it on. Please be patient, the LDO splash screen will loop twice and may pause on a black screen until Klipper finishes loading. On first boot the touchscreen controller is setting up the operating system and may take a few minutes.
