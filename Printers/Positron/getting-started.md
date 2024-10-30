@@ -2,11 +2,32 @@
 title: Getting Started
 description: A Quick Directory of the assembly guide
 published: true
-date: 2024-10-30T21:21:18.896Z
+date: 2024-10-30T21:51:17.501Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:07:12.243Z
 ---
+
+#  Tools and Supplies
+The LDO v3.2 kit comes with all basic tools for assembly, but does not come with the items
+below. Some items may become optional if the kit provides them in the future.
+-	Printed parts if they weren't ordered with the kit
+- Soldering iron for heat set inserts
+- Grease for rails and some assemblies
+- High temp thermal grease
+- Optional organizer for the dozens of bags for bolts
+# Assembly Guide
+
+We've estimated that Assembly will take around 10 hours (Minus printing the parts).
+
+The LDO Assembly guide will walk you through the assembly of the printer:  
+[https://www.ldomotion.com/p/assembly/Positron-V32](https://www.ldomotion.com/p/assembly/Positron-V32)
+# Klipper Firmware
+After the printer has been assembled please update the configs before starting a test print or tuning. [Positron Config Github](https://github.com/Positron3D/PositronConfig) 
+# Known Issues
+
+Please check the [Known Issues on our Discord](https://discord.com/channels/994721150804443266/1065682739195559956) for notices for information on issues with the assembly process and potential fixes.
+Commonly mentioned issues come from the Z drive and Extruder binding. Both of those use an LDO Orbiter drive but have printed parts for the main body and need careful attention to detail when assembling. 
 
 # Colloquial Terms
 
@@ -23,19 +44,6 @@ When the printer is **Folded** it is ready for storage in a Filament box or the 
 We often refer to the “Back of the Bed” or “The Back Glass” as the side with the ITO coating. This is the side that faces **UP** when the printer is deployed.
 
 The “Front of the Bed” is the printing surface, it is the side that faces **DOWN** when the printer is deployed.
-
-# Known Issues
-
-Please check the [Known Issues on our Discord](https://discord.com/channels/994721150804443266/1065682739195559956) for notices for information on issues with the assembly process and potential fixes.
-
-# Assembly Guide
-
-We've estimated that Assembly will take around 10 hours (Minus printing the parts).
-
-The LDO Assembly guide will walk you through the assembly of the printer:  
-[https://www.ldomotion.com/p/assembly/Positron-V32](https://www.ldomotion.com/p/assembly/Positron-V32)
-
-Guides here will outline modifications you can make to the base assembly.
 
 # THE CAD
 
