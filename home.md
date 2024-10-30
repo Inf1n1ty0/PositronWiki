@@ -2,7 +2,7 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-10-30T17:08:45.441Z
+date: 2024-10-30T21:19:43.708Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -10,7 +10,7 @@ dateCreated: 2024-08-02T20:25:10.846Z
 
 We are still working on this wiki, so please be patient with us.
 
-Just received an LDO Positron kit? [Start Here](/Printers/Positron/Assembly/00Directory), use the navigation bar, or icon on the left.
+Just received an LDO Positron kit? [Click Here](/Printers/Positron/getting-started).
 
 Having issues with the touchscreen controller, need to reinstall the OS, or perform a backup, [Click Here](/Printers/Positron/Software/PiImaging).
 
