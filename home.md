@@ -2,7 +2,7 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-10-30T17:08:10.487Z
+date: 2024-10-30T17:08:29.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -21,7 +21,7 @@ To participate in editing this wiki or to make comments, you must join [The Posi
 2. Run [PID Tuning](https://www.obico.io/blog/klipper-pid-tuning/) on your Hotend and Bed
 3. Hot Tighten your Nozzle
 4. [Calibrate your Z_Endstop](https://www.klipper3d.org/Manual_Level.html#calibrating-a-z-endstop)
-5. [Bed_Leveling](/Printers/Positron/General_Care/Bed_Leveling)Manually level your bed 
+5. [Bed_Leveling](/Printers/Positron/General_Care/Bed_Leveling)
 6. [Run Input Shaper](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#input-shaper)
 7. [Tune your Sensorless Homing](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#driver-strengths-sensorless-homing)
 8. Download the latest release version of [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer), a Positron profile is included. Hi Jeff.
