@@ -2,7 +2,7 @@
 title: General Troubleshooting & Recommendations
 description: 
 published: true
-date: 2024-10-31T03:39:21.176Z
+date: 2024-10-31T03:42:13.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:09:46.525Z
@@ -90,5 +90,4 @@ Disable \[BED\_TILT\] in your printer.cfg if it isn't disabled already.
 Print the cube and adjust the bed knobs to get the front of the bed level with each other, then adjust your Z-Offset for front/back.
 
 # Updating Firmware
-[Follow this guide for updating Firmware, it's the same process as the Nitehawk](https://docs.ldomotors.com/en/Toolboard/nitehawk-sb)
-We will have a specific guide for the Positron available once complete from LDO
+[Follow this guide for updating toolboard Firmware](https://docs.ldomotors.com/en/Positron/electronics)
