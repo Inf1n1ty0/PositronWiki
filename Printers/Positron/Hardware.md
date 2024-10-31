@@ -2,7 +2,7 @@
 title: Hardware
 description: Positron hardware and troubleshooting
 published: true
-date: 2024-10-31T03:50:12.697Z
+date: 2024-10-31T18:27:34.903Z
 tags: hardware, troubleshooting, issues, history, positron
 editor: markdown
 dateCreated: 2024-10-31T02:17:39.450Z
@@ -20,7 +20,9 @@ LDO Positron kit history
 Printed parts source and recommendations.
 
 # Troubleshooting Topics
-
+Before spending hours troubleshooting print quality, first layer, or bed adhesion issues, tune the nozzle and bed temperatures with PID tune from the touchscreen. For other general usage issues or random error messages, please visit the [Software Page](/Printers/Positron/Software/) and update the Klipper configs.
+## Tuning
+Before 
 ## [General Troubleshooting](/Printers/Positron/Hardware/Troubleshooting)(WIP)
 General recommendations and troubleshooting tips
 
