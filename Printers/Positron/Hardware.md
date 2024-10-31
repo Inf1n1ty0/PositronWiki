@@ -2,7 +2,7 @@
 title: Hardware
 description: Positron hardware and troubleshooting
 published: true
-date: 2024-10-31T03:42:36.644Z
+date: 2024-10-31T03:50:12.697Z
 tags: hardware, troubleshooting, issues, history, positron
 editor: markdown
 dateCreated: 2024-10-31T02:17:39.450Z
@@ -22,3 +22,13 @@ Printed parts source and recommendations.
 # Troubleshooting Topics
 
 ## [General Troubleshooting](/Printers/Positron/Hardware/Troubleshooting)(WIP)
+General recommendations and troubleshooting tips
+
+## Z Drive Binding (WIP link shortly)
+Z Drive skipping or belt slipping troubleshooting steps.
+
+## Extruder Binding or Clicking (WIP link shortly)
+Extruder skipping or clicking troubleshooting steps.
+
+## First Layer Issues (WIP link shortly)
+Terrible first layer or z_calibrate issues.
