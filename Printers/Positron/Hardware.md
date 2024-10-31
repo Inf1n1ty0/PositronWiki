@@ -2,7 +2,7 @@
 title: Hardware
 description: Positron hardware and troubleshooting
 published: true
-date: 2024-10-31T02:30:57.429Z
+date: 2024-10-31T02:33:02.128Z
 tags: hardware, troubleshooting, issues, history, positron
 editor: markdown
 dateCreated: 2024-10-31T02:17:39.450Z
@@ -16,7 +16,7 @@ For issues not covered here search in our [troubleshooting section](https://disc
 ## [Positron Changelog](/Printers/Positron/Hardware/Changelog)
 LDO Positron kit history
 
-## [PrintedParts](/Printers/Positron/Hardware/PrintedParts)
+## [Printed Parts](/Printers/Positron/Hardware/PrintedParts)
 Printed parts source and recommendations.
 
 # Troubleshooting Topics
