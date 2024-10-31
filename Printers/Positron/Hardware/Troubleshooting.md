@@ -2,7 +2,7 @@
 title: General Troubleshooting & Recommendations
 description: 
 published: true
-date: 2024-10-11T19:42:42.116Z
+date: 2024-10-31T03:37:43.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:09:46.525Z
@@ -40,7 +40,7 @@ PETG Loves to stick to glass, and has been known to rip chunks out of the glass 
 
 # Known Issues
 
-We are aware of a few pre-existing issues;
+We are aware of a few [pre-existing issues](https://discord.com/channels/994721150804443266/1065682739195559956);
 
 ## IR Leveling
 
