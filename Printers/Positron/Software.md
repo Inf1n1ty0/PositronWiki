@@ -2,8 +2,8 @@
 title: Software
 description: Directory for updating Positron software and firmware
 published: true
-date: 2024-10-31T01:11:09.814Z
-tags: 
+date: 2024-10-31T01:59:39.264Z
+tags: software, firmware
 editor: markdown
 dateCreated: 2024-10-30T22:20:41.670Z
 ---
