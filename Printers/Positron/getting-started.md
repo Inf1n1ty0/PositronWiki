@@ -2,7 +2,7 @@
 title: Getting Started
 description: Prepare to build a Positron.
 published: true
-date: 2024-10-31T01:07:44.811Z
+date: 2024-10-31T01:57:05.313Z
 tags: kit, start, guide, assembly
 editor: markdown
 dateCreated: 2024-08-01T04:07:12.243Z
