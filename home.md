@@ -2,7 +2,7 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-10-30T21:19:43.708Z
+date: 2024-10-31T02:43:21.216Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -14,7 +14,7 @@ Just received an LDO Positron kit? [Click Here](/Printers/Positron/getting-start
 
 Having issues with the touchscreen controller, need to reinstall the OS, or perform a backup, [Click Here](/Printers/Positron/Software/PiImaging).
 
-To participate in editing this wiki or to make comments, you must join [The Positron Discord](https://discord.gg/2VMRfBKbVh), then sign in here with Discord.
+To participate in editing this wiki or to make comments, you must join [The Positron Discord](https://discord.com/invite/7XcvCBPH), then sign in here with Discord.
 
 # Finished you build? Here's what's next!
 1. Once you've finished your build (including the [z_endstop](https://wiki.positron3d.com/en/Printers/Positron/Mods/Z-Endstop)), update your Pi with the [latest image](https://wiki.positron3d.com/en/Printers/Positron/Software/PiImaging) (This will ensure you have the latest updates)
