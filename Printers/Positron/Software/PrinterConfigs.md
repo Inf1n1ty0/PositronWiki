@@ -2,8 +2,8 @@
 title: Printer Configs
 description: A brief on where to find the latest printer configs, and what settings you'll need to update.
 published: true
-date: 2024-10-31T01:10:01.381Z
-tags: configs, klipper
+date: 2024-10-31T01:11:38.462Z
+tags: configs, klipper, calibrate
 editor: markdown
 dateCreated: 2024-08-01T04:12:16.244Z
 ---
