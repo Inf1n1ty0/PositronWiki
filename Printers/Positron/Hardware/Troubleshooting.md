@@ -2,7 +2,7 @@
 title: General Troubleshooting & Recommendations
 description: 
 published: true
-date: 2024-10-31T03:37:43.077Z
+date: 2024-10-31T03:39:21.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:09:46.525Z
@@ -57,7 +57,7 @@ Make sure your hotend fan is set to 0.9 or 1.0 in Klipper Config. This will prev
 Additionally, we are working on improving the part-cooling performance. We welcome support from the community to see how this can be improved.
 
 # General Troubleshooting
-Before delving too deep, make sure your [Configs are up to date.](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2/Configs)
+Before delving too deep, make sure your [Configs are up to date.](https://github.com/Positron3D/PositronConfig)
 
 ## MCU Not Connecting
 
