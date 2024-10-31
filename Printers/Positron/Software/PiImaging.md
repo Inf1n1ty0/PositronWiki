@@ -1,9 +1,9 @@
 ---
 title: Pi Imaging
-description: 
+description: Flash the Pi SD Card with a new linux OS
 published: true
-date: 2024-10-27T02:25:17.161Z
-tags: 
+date: 2024-10-31T02:03:07.370Z
+tags: pi, flash, update, recovery, sdcard
 editor: markdown
 dateCreated: 2024-08-01T04:11:47.615Z
 ---
