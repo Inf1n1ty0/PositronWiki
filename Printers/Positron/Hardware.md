@@ -2,7 +2,7 @@
 title: Hardware
 description: Positron hardware and troubleshooting
 published: true
-date: 2024-10-31T03:36:14.234Z
+date: 2024-10-31T03:42:36.644Z
 tags: hardware, troubleshooting, issues, history, positron
 editor: markdown
 dateCreated: 2024-10-31T02:17:39.450Z
@@ -21,4 +21,4 @@ Printed parts source and recommendations.
 
 # Troubleshooting Topics
 
-## [General Troubleshooting](/Printers/Positron/Hardware/Troubleshooting)
+## [General Troubleshooting](/Printers/Positron/Hardware/Troubleshooting)(WIP)
