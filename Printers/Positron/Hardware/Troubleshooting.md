@@ -2,7 +2,7 @@
 title: General Troubleshooting & Recommendations
 description: 
 published: true
-date: 2024-10-31T03:42:13.884Z
+date: 2024-10-31T04:11:01.856Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:09:46.525Z
@@ -91,3 +91,19 @@ Print the cube and adjust the bed knobs to get the front of the bed level with e
 
 # Updating Firmware
 [Follow this guide for updating toolboard Firmware](https://docs.ldomotors.com/en/Positron/electronics)
+
+# Hotend Nozzle Change
+## Required Tools;
+1. [Torque Wrench](https://www.sliceengineering.com/products/nozzle-torque-wrench-1-5-nm?srsltid=AfmBOoq-cz-TWv2R4o5gOmMkJfuE1jVtgWKiXF5-0aXs6SY57TesXnbt)
+2. Or befitting wrench
+
+## Guide
+1. Unload Filament using included Macros.
+2. Heat nozzle to 250⁰C or hotter if printing at higher temps. 
+3. Use appropriate wrench to remove the nozzle.
+4. Be careful and find a safe place for nozzle to cooldown.
+5. Use the same tool (preferably a torque wrench) to install the new Nozzle
+	- Be careful, don't cross thread the nozzle.
+6. If new nozzle does not thread in easy, rotate counter wise until nozzle slips
+	 into the threads then screw it into the hotend.
+7. Tighten with torque wrench if possible. Then install complete.
