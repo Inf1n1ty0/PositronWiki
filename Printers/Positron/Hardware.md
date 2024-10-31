@@ -2,7 +2,7 @@
 title: Hardware
 description: Positron hardware and troubleshooting
 published: true
-date: 2024-10-31T18:27:34.903Z
+date: 2024-10-31T18:32:16.992Z
 tags: hardware, troubleshooting, issues, history, positron
 editor: markdown
 dateCreated: 2024-10-31T02:17:39.450Z
@@ -21,8 +21,8 @@ Printed parts source and recommendations.
 
 # Troubleshooting Topics
 Before spending hours troubleshooting print quality, first layer, or bed adhesion issues, tune the nozzle and bed temperatures with PID tune from the touchscreen. For other general usage issues or random error messages, please visit the [Software Page](/Printers/Positron/Software/) and update the Klipper configs.
-## Tuning
-Before 
+## [Tuning](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html)
+If everything on the Positron is mechanically working but there still are print quality issues, it is a great idea to fully tune the printer using Ellis' Tuning Guide. 
 ## [General Troubleshooting](/Printers/Positron/Hardware/Troubleshooting)(WIP)
 General recommendations and troubleshooting tips
 
