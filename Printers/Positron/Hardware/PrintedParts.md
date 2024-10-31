@@ -2,13 +2,13 @@
 title: Printed Parts Guide
 description: 
 published: true
-date: 2024-05-27T20:36:01.892Z
+date: 2024-10-31T02:32:25.492Z
 tags: 
-editor: undefined
-dateCreated: 2024-05-04T14:18:40.093Z
+editor: markdown
+dateCreated: 2024-08-01T04:09:21.591Z
 ---
 
-## https://github.com/Positron3D/Positron/tree/main/Printed%20Parts
+## [Github For Printed Parts](https://github.com/Positron3D/Positron/tree/main/Printed%20Parts%20%26%20CAD%20Models/Current%20Release%20Printed%20Parts)
 
 # Positron v3.2 Printed Parts
 Hello - all of these folders are what is required to build your Postiron.
