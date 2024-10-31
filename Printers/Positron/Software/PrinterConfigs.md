@@ -2,7 +2,7 @@
 title: Positron Configurations
 description: Rhere to find the latest printer configs, and a brief on some settings you might need to update.
 published: true
-date: 2024-10-31T22:30:22.274Z
+date: 2024-10-31T22:32:39.176Z
 tags: configs, klipper, calibrate, configuration, calibration
 editor: markdown
 dateCreated: 2024-08-01T04:12:16.244Z
@@ -16,9 +16,15 @@ You want the hottest, freshest, bestest configs? Check out the [Positron Config 
 
 
 ## Sensorless Homing Sensitivity
-We have a middle of the road average for this, but it will vary between printers, so please check this.
+The Positron uses StallGuard sensorless homing for the X and Y axis. We've provided a 'middle of the road' setting as stock, but variations in the linear rails, bearings, lubricants, etc. may cause these setting to not work on your printer. Even if they do work, tuning your sensorless homing can improve the reliability and gentleness of the procedure.
 
-Set a value in your klipper console by running:
+The `driver_SGTHRS` parameter in the `[tmc2209 stepper_x]` and `[tmc2209 stepper_y]` sections of `printer.cfg` determine the homing sensitivity for each axis. Our stocl value is `48`, but that can be increased to make it more sensitive (if the printer is crashing too hard into the endstops) or decreased to make it less sensitive (of ot triggers prematurely).
+
+Alternatively, you can do a tune the sensitivities live using the Klipper console in Fluidd or KlipperScreen:
+
+### Sensorless Homing Tuning
+
+Start by setting a high sensitivity value (we're using `60`) in your Klipper console by running:
 
 `SET_TMC_FIELD STEPPER=stepper_x FIELD=SGTHRS VALUE=60`
 
@@ -26,21 +32,16 @@ Then test the value by homing the X axis:
 
 `G28 X`
 
-This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we recommend reducing by increments of 5), testing in between, until your X axis is reliably (but still nonviolently) homing.
-
-> You may need to periodicly move the bed down a bit, as some older published configurations move up each time you home any axis
-{.is-info}
-
+This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we reccomend  reducing by increments of 5), testing in between, until your X axis is reliably (but still nonviolently) homing.
 
 Once you've found a value you're happy with, save it by setting that value in `printer.cfg`:
-
 ```properties
 [tmc2209 stepper_x]
 diag_pin: ^gpio16
 driver_SGTHRS: -> UPDATE THIS VALUE <-
 ```
 
-Repeat this process for the Y axis using:
+Repeat this process for the Y axis using;
 
 `SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=60`
 
