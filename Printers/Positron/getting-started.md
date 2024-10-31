@@ -1,8 +1,8 @@
 ---
 title: Getting Started
-description: A Quick Directory of the assembly guide
+description: Prepare to build a Positron.
 published: true
-date: 2024-10-30T21:51:17.501Z
+date: 2024-10-31T01:05:28.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:07:12.243Z
