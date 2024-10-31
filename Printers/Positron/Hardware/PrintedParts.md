@@ -2,7 +2,7 @@
 title: Printed Parts Guide
 description: 
 published: true
-date: 2024-10-31T02:32:25.492Z
+date: 2024-10-31T02:42:54.108Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-01T04:09:21.591Z
@@ -46,4 +46,4 @@ This is the `Bed_Cable_Guide`, you need to print One of them, recommended in an 
 This is the `Z_PCB_Spacer`, you need to print One of them, you can use any color, at the minimum in ABS or ASA, and must not be conductive.
 
 # Questions or Comments
-Please feel free to join our [Discord](https://discord.gg/mGDkYZtyNY) to help with any feedback. We appreciate any and all feedback that can help us better improve our designs.
+Please feel free to join our [Discord](https://discord.com/invite/7XcvCBPH) to help with any feedback. We appreciate any and all feedback that can help us better improve our designs.
