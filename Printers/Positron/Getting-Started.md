@@ -2,7 +2,7 @@
 title: Getting Started
 description: Prepare to build a Positron.
 published: true
-date: 2024-10-31T01:57:05.313Z
+date: 2024-11-01T21:30:44.216Z
 tags: kit, start, guide, assembly
 editor: markdown
 dateCreated: 2024-08-01T04:07:12.243Z
@@ -15,6 +15,7 @@ below. Some items may become optional if the kit provides them in the future.
 - Soldering iron for heat set inserts
 - Grease for rails and some assemblies
 - High temp thermal grease
+- Thread lock for the motion system bolts (Not permenant)
 - Optional organizer for the dozens of bags for bolts
 # Assembly Guide
 
