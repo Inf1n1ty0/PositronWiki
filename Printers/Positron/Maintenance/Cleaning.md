@@ -2,7 +2,7 @@
 title: Cleaning your Positron
 description: A quick guide going over how to clean your positron without causing damage.
 published: true
-date: 2024-10-31T02:08:29.004Z
+date: 2024-11-01T15:44:22.038Z
 tags: clean, care, maintenance, bed, glass, pcb
 editor: markdown
 dateCreated: 2024-10-30T13:09:36.675Z
@@ -69,3 +69,18 @@ Clean it like you would any PEI bed;
 
 #### PCB Bed
 1. Wipe with a damp paper towel.
+2. Let it dry before using.
+
+## 3. Cleaning the Rails
+There is a chance for filament to fall onto the Y rail, for the most part this will get knocked out of the way, but if it happens, just wipe it down, and remove filament scraps.
+
+You shouldn't have to dismantle much of anything to do this.
+
+## 4. Cleaning the Idlers
+Since the Positron Kinematic System is at the bottom of the printer, it is only inevitable that filament will get caught between the belt and the idler.
+
+1. Check your Idlers
+	- If you notice a strange bulge where the belt wraps around an idler, you may have filament stuck on the idler.
+2. Undo the belt from the Idler
+	- You will loose tension in your belt, there are some tools you can use to clamp the belts to prevent totall loss of tension.
+3. Check to see if any filament has bound to the idler, remove it with something metal to scrape it off.
