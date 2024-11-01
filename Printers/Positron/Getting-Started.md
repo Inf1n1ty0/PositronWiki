@@ -2,7 +2,7 @@
 title: Getting Started
 description: Prepare to build a Positron.
 published: true
-date: 2024-11-01T21:30:44.216Z
+date: 2024-11-01T21:31:02.324Z
 tags: kit, start, guide, assembly
 editor: markdown
 dateCreated: 2024-08-01T04:07:12.243Z
@@ -13,7 +13,7 @@ The LDO v3.2 kit comes with all basic tools for assembly, but does not come with
 below. Some items may become optional if the kit provides them in the future.
 -	Printed parts if they weren't ordered with the kit
 - Soldering iron for heat set inserts
-- Grease for rails and some assemblies
+- Grease for linear rails and some assemblies
 - High temp thermal grease
 - Thread lock for the motion system bolts (Not permenant)
 - Optional organizer for the dozens of bags for bolts
