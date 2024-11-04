@@ -2,7 +2,7 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-11-04T22:28:52.615Z
+date: 2024-11-04T22:36:10.999Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -10,22 +10,22 @@ dateCreated: 2024-08-02T20:25:10.846Z
 
 We are still working on this wiki, so please be patient with us.
 
-Just received an LDO Positron kit? [Click Here](https://wiki.positron3d.com/en/Printers/Positron/Getting-Started).
+Just starting your LDO Positron kit? [**Get Started Here**](https://wiki.positron3d.com/en/Printers/Positron/Getting-Started)
 
 Having issues with the touchscreen controller, need to reinstall the OS, or perform a backup, [Click Here](/Printers/Positron/Software/PiImaging).
 
-To participate in editing this wiki or to make comments, you must join [The Positron Discord](https://discord.com/invite/7XcvCBPH), then sign in here with Discord.
+To participate in editing this wiki or make comments, join [The Positron Discord](https://discord.com/invite/7XcvCBPH), then sign in here with Discord.
 
 # Finished your build? Here's what's next!
 1. Once you've finished your build (including the [z_endstop](https://wiki.positron3d.com/en/Printers/Positron/Mods/Z-Endstop)), update your Pi with the [latest image](https://wiki.positron3d.com/en/Printers/Positron/Software/PiImaging) (This will ensure you have the latest updates)
-2. Run [PID Tuning](https://www.obico.io/blog/klipper-pid-tuning/) on your Hotend and Bed
-3. Hot Tighten your Nozzle
-4. [Calibrate your Z_Endstop](https://www.klipper3d.org/Manual_Level.html#calibrating-a-z-endstop)
-5. [Perform Bed_Leveling](/Printers/Positron/General_Care/Bed_Leveling)
-6. [Run Input Shaper](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#input-shaper)
+2. Run [PID tuning](https://www.obico.io/blog/klipper-pid-tuning/) on your hotend and bed
+3. Hot–tighten your nozzle
+4. [Calibrate your Z endstop](https://www.klipper3d.org/Manual_Level.html#calibrating-a-z-endstop)
+5. [Level your bed](/Printers/Positron/General_Care/Bed_Leveling)
+6. Run [Input Shaper Calibration](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#input-shaper)
 7. [Tune your Sensorless Homing](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#driver-strengths-sensorless-homing)
-8. Download the latest release version of [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer), a Positron profile is included! *(Hi Jeff)*
-9. [Here's a XY Cube made just for Positron!](https://www.printables.com/model/936444-positron-posixy-cube)
+8. Download the latest [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) release, a Positron profile is included! *(Hi Jeff)*
+9. Get printing! Here's a [XY Cube made just for Positron](https://www.printables.com/model/936444-positron-posixy-cube)!
 
 # BOM
 [Here are all the parts needed to make a Positron V3.2.](https://docs.ldomotors.com/en/Positron/positron_v32/Positron_V32_Bom)
