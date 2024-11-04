@@ -2,7 +2,7 @@
 title: Positron Configurations
 description: Rhere to find the latest printer configs, and a brief on some settings you might need to update.
 published: true
-date: 2024-10-31T22:32:39.176Z
+date: 2024-11-04T22:18:53.597Z
 tags: configs, klipper, calibrate, configuration, calibration
 editor: markdown
 dateCreated: 2024-08-01T04:12:16.244Z
@@ -10,7 +10,7 @@ dateCreated: 2024-08-01T04:12:16.244Z
 
 # Positron Configurations
 
-You want the hottest, freshest, bestest configs? Check out the [Positron Config on Github](https://github.com/Positron3D/PositronConfig) to get 'em straight out the oven!
+You want the hottest, freshest, bestest configs? Check out the [PositronConfig on Github](https://github.com/Positron3D/PositronConfig) to get that [latest release](https://github.com/Positron3D/PositronConfig/releases/latest) you crave!
 
 ![GitHub Release](https://img.shields.io/github/v/release/Positron3D/PositronConfig?sort=semver&display_name=release&style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=black)
 
