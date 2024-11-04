@@ -2,7 +2,7 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-11-01T15:48:09.515Z
+date: 2024-11-04T22:28:52.615Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -16,7 +16,7 @@ Having issues with the touchscreen controller, need to reinstall the OS, or perf
 
 To participate in editing this wiki or to make comments, you must join [The Positron Discord](https://discord.com/invite/7XcvCBPH), then sign in here with Discord.
 
-# Finished you build? Here's what's next!
+# Finished your build? Here's what's next!
 1. Once you've finished your build (including the [z_endstop](https://wiki.positron3d.com/en/Printers/Positron/Mods/Z-Endstop)), update your Pi with the [latest image](https://wiki.positron3d.com/en/Printers/Positron/Software/PiImaging) (This will ensure you have the latest updates)
 2. Run [PID Tuning](https://www.obico.io/blog/klipper-pid-tuning/) on your Hotend and Bed
 3. Hot Tighten your Nozzle
@@ -24,7 +24,7 @@ To participate in editing this wiki or to make comments, you must join [The Posi
 5. [Perform Bed_Leveling](/Printers/Positron/General_Care/Bed_Leveling)
 6. [Run Input Shaper](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#input-shaper)
 7. [Tune your Sensorless Homing](https://wiki.positron3d.com/en/Printers/Positron/Software/PrinterConfigs#driver-strengths-sensorless-homing)
-8. Download the latest release version of [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer), a Positron profile is included. Hi Jeff.
+8. Download the latest release version of [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer), a Positron profile is included! *(Hi Jeff)*
 9. [Here's a XY Cube made just for Positron!](https://www.printables.com/model/936444-positron-posixy-cube)
 
 # BOM
