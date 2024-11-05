@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-11-05T01:18:02.255Z
+date: 2024-11-05T12:16:33.319Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
@@ -10,7 +10,9 @@ dateCreated: 2024-08-02T20:25:10.846Z
 
 # Welcome to the Positron 3D Wiki!
 
-*The wiki is still under contruction, please mind our dust*
+*The wiki is still under contruction, please pardon our dust*
+
+<img src="/positron_v3.2.0_render.png" style="width:40em"/>
 
 Just starting your LDO Positron kit? [**Get Started Here**](https://wiki.positron3d.com/en/Printers/Positron/Getting-Started)
 
