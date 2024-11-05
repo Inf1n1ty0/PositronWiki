@@ -2,21 +2,23 @@
 title: Welcome to the Positron 3D Wiki
 description: 
 published: true
-date: 2024-11-04T22:36:10.999Z
+date: 2024-11-05T01:14:04.090Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-02T20:25:10.846Z
 ---
 
-We are still working on this wiki, so please be patient with us.
+# Welcome to the Positron 3D Wiki!
+
+*The wiki is still under contruction, please mind our dust*
 
 Just starting your LDO Positron kit? [**Get Started Here**](https://wiki.positron3d.com/en/Printers/Positron/Getting-Started)
 
-Having issues with the touchscreen controller, need to reinstall the OS, or perform a backup, [Click Here](/Printers/Positron/Software/PiImaging).
+Having issues with the touchscreen controller, need to reinstall the OS, or perform a backup? Check out our [Imaging Guide](/Printers/Positron/Software/PiImaging)
 
 To participate in editing this wiki or make comments, join [The Positron Discord](https://discord.com/invite/7XcvCBPH), then sign in here with Discord.
 
-# Finished your build? Here's what's next!
+# Finished your build? Here's what's next:
 1. Once you've finished your build (including the [z_endstop](https://wiki.positron3d.com/en/Printers/Positron/Mods/Z-Endstop)), update your Pi with the [latest image](https://wiki.positron3d.com/en/Printers/Positron/Software/PiImaging) (This will ensure you have the latest updates)
 2. Run [PID tuning](https://www.obico.io/blog/klipper-pid-tuning/) on your hotend and bed
 3. Hot–tighten your nozzle
