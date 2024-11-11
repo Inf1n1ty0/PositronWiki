@@ -2,7 +2,7 @@
 title: Positron Rollout
 description: A macro to prepare the Positron for folding
 published: true
-date: 2024-11-11T21:19:07.532Z
+date: 2024-11-11T21:20:15.728Z
 tags: folding, rollout, travel
 editor: markdown
 dateCreated: 2024-11-11T21:17:41.019Z
@@ -27,7 +27,7 @@ gcode:
   RESPOND TYPE=command MSG="action:prompt_show"
   
 [gcode_macro _Roll_Out]
-description: moves toolhead and bed to correct positions to be folded up
+description: moves toolhead and bed to correct positions to be folded
 gcode:
   M300 P100                     ;Button press beep
   RESPOND TYPE=command MSG="action:prompt_end"
@@ -39,7 +39,7 @@ gcode:
 
 
 [gcode_macro _Unload_and_Go]
-description: same as rollout but heats to 230C, unloads filament, cools down, then parks to fold
+description: same as rollout but unloads filament, cools down, and then parks to fold
 gcode:
   M300 P100                     ;Button press beep
   RESPOND TYPE=command MSG="action:prompt_end"
