@@ -2,7 +2,7 @@
 title: Mods
 description: Positron mods old and new.
 published: true
-date: 2024-10-31T01:41:43.475Z
+date: 2024-11-11T20:36:03.486Z
 tags: mods, endstop, belt, cable, chain
 editor: markdown
 dateCreated: 2024-10-31T01:41:43.475Z
@@ -13,7 +13,14 @@ This page is dedicated to community tested modifications for the Positron v3.2. 
 
 # Mods List
 
-## [Z Endstop Switch](/Printers/Positron/Mods/Z-Endstop)
+## Hardware Mods
+
+###  [Z Endstop Switch](/Printers/Positron/Mods/Z-Endstop)
 Batch one of the LDO Postiron v3.2 kit used the IR probe to calibrate the Z offset. After further testing, the results of using the IR probe in brightly lit areas produced an incosistent first layer. This mod installs an endstop switch on the extruder housing which will be triggered by the Z linear rail carrage before the bed reaches the nozzle. 
 
 
+
+## Software Mods and Macros
+
+### Positron Rollout
+A macro to automate parking the toolhead and bed in the correct position for folded with an optional filament unload.
