@@ -2,7 +2,7 @@
 title: Positron Rollout
 description: A macro to prepare the Positron for folding
 published: true
-date: 2024-11-11T21:17:41.019Z
+date: 2024-11-11T21:19:07.532Z
 tags: folding, rollout, travel
 editor: markdown
 dateCreated: 2024-11-11T21:17:41.019Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-11T21:17:41.019Z
 # Positron Rollout Macro
 This is a macro that can be appended to the end of the `positron_macro.cfg` config file. This macro adds an easy
 way to get the Positron ready for travel and has a option menu to unload filament first or simply move all 
-axis to their fold up positions.
+axes to their fold up positions.
 
 > Copy and paste the follow text to the end of positron_macro.cfg file
 {.is-info}
