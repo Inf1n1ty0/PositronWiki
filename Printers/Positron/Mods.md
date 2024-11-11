@@ -2,7 +2,7 @@
 title: Mods
 description: Positron mods old and new.
 published: true
-date: 2024-11-11T20:36:03.486Z
+date: 2024-11-11T21:21:12.815Z
 tags: mods, endstop, belt, cable, chain
 editor: markdown
 dateCreated: 2024-10-31T01:41:43.475Z
@@ -22,5 +22,5 @@ Batch one of the LDO Postiron v3.2 kit used the IR probe to calibrate the Z offs
 
 ## Software Mods and Macros
 
-### Positron Rollout
-A macro to automate parking the toolhead and bed in the correct position for folded with an optional filament unload.
+### [Positron Rollout](/Printers/Positron/Mods/positron-rollout)
+A macro to automate parking the toolhead and bed in the correct position for folding, with an optional filament unload.
