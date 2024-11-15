@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T20:24:03.546Z
+date: 2024-11-15T21:07:33.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -34,8 +34,8 @@ This guide is for extruder hardware kit that was shipped with the Positron v3.2.
 - Bearing, MR148ZZ
 - ECAS04 Bowden Coupler
 - Shim Washer, 3x6x0.5mm
-- Heatset Insert, Brass, M3x6x5
-- 3x Heatset Insert, Brass, M2.5x3x4
+- Heat set Insert, Brass, M3x6x5
+- 3x Heat set Insert, Brass, M2.5x3x4
 - 4x Machine Screw, BHCS, M2.5x18
 - 2x Self-tapping Screw, M2x10
 - Z Endstop and Cable
@@ -54,20 +54,25 @@ STL models can be found on the [Positron Printed Parts Github](https://github.co
 
 ## Assemble
 ### Prepare the Printed Parts
-> Insert heat sets into printed parts
+> Install heat set inserts into the printed parts
 {.is-info}
 
 Parts Needed:
-- 1x Heatset Insert, Brass, M3x6x5
-- 3x Heatset Insert, Brass, M2.5x3x4
+- 1x Heat set Insert, Brass, M3x6x5
+- 3x Heat set Insert, Brass, M2.5x3x4
 #### Guilder
 ![guilder.gif](/guilder.gif)
 
-Install an M3x6x5 heatset insert into the printed guidler.
+Install an M3x6x5 heat set insert into the printed guidler.
 
 #### Extruder Main Body
+> Batch 1 Extruder Main Body did not use heat set insert but had screws that threaded directly into the printed part.
+{.is-info}
+
 ![main_body_hs.gif](/main_body_hs.gif)
 
-Install M2.5x3x4 heatset inserts into the printed extruder main body.
+Install M2.5x3x4 heat set inserts into the printed extruder main body.
+
+
 
 
