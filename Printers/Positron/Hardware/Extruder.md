@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T18:22:15.497Z
+date: 2024-11-15T18:28:21.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -17,6 +17,7 @@ This guide is for extruder hardware kit  was shipped with Positron v3.2.0 and v3
 
 ---
 ## Required Parts
+### Hardware
 > Many of these parts with be in a bag labeled Extruder Kit
 {.is-info}
 
@@ -38,5 +39,6 @@ This guide is for extruder hardware kit  was shipped with Positron v3.2.0 and v3
 - 4x Machine Screw, BHCS, M2.5x18
 - 2x Self-tapping Screw, M2x10
 - Z Endstop and Cable
+### Printed Parts
 
 
