@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T18:44:47.485Z
+date: 2024-11-15T18:53:16.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -50,4 +50,7 @@ STL models can be found on the [Positron Printed Parts Github](https://github.co
 > Models have not been scaled to account for material shrinkage
 {.is-info}
 
+![extruder_parts_transp.png](/extruder_parts_transp.png)
+
+## Assemble
 
