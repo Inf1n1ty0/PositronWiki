@@ -2,7 +2,7 @@
 title: Positron Configurations
 description: Rhere to find the latest printer configs, and a brief on some settings you might need to update.
 published: true
-date: 2024-11-04T22:18:53.597Z
+date: 2024-11-15T17:09:54.977Z
 tags: configs, klipper, calibrate, configuration, calibration
 editor: markdown
 dateCreated: 2024-08-01T04:12:16.244Z
@@ -32,7 +32,7 @@ Then test the value by homing the X axis:
 
 `G28 X`
 
-This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we reccomend  reducing by increments of 5), testing in between, until your X axis is reliably (but still nonviolently) homing.
+This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we recommend  reducing by increments of 5), testing in between, until your X axis is reliably (but still nonviolently) homing.
 
 Once you've found a value you're happy with, save it by setting that value in `printer.cfg`:
 ```properties
