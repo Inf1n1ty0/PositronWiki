@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T22:37:00.864Z
+date: 2024-11-15T22:53:30.481Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -98,6 +98,15 @@ flush or below the surface of the part.
 
 ![motor_plate_2.gif](/extruderguide/motor_plate_2.gif)
 - Insert the shaft through the hole of the bearing.
+
+---
+![motor_plate_3.gif](/extruderguide/motor_plate_3.gif)
+- Place primary gear onto shaft
+- Screw in M3x3 Set Screw through the gear and onto the flat spot of the CNC Shaft,
+but don't tightened all the way down. Primary gear should move up and down but not fall off.
+- Place the MR148ZZ bearing on the end of the shaft and set assembled part aside for later.
+
+---
 
 
 
