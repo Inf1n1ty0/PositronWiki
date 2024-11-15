@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T21:21:59.914Z
+date: 2024-11-15T21:26:56.809Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -73,6 +73,11 @@ Install an M3x6x5 heat set insert into the printed guidler.
 
 Install M2.5x3x4 heat set inserts into the printed extruder main body.
 
+---
+
+### Motor Plate and Planetary Gears
+> For all the M2.5 screws, please use the included LDO screwdriver.
+{.is-warning}
 
 
 
