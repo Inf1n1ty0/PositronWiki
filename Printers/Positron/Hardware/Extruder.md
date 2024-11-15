@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T18:58:49.462Z
+date: 2024-11-15T20:19:06.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -53,4 +53,19 @@ STL models can be found on the [Positron Printed Parts Github](https://github.co
 ![extruder_parts_transp.png](/extruder_parts_transp.png)
 
 ## Assemble
+### Prepare the Printed Parts
+> Insert heat sets into printed parts
+{.is-info}
+
+Parts Needed:
+- 1x Heatset Insert, Brass, M3x6x5
+- 3x Heatset Insert, Brass, M2.5x3x4
+#### Guilder
+![guilder.gif](/guilder.gif)
+
+Install an M3x6x5 heatset insert into the printed guidler.
+
+#### Extruder Main Body
+![main_body_1_hs.gif](/main_body_1_hs.gif)
+
 
