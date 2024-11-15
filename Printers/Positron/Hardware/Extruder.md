@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T18:53:16.625Z
+date: 2024-11-15T18:58:25.820Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -18,7 +18,7 @@ This guide is for extruder hardware kit  was shipped with Positron v3.2.0 and v3
 ---
 ## Required Parts
 ### Hardware
-> Many of these parts with be in a bag labeled Extruder Kit
+> Many of these parts will be in a bag labeled Extruder Kit
 {.is-info}
 
 - Bearing, MF148ZZ
