@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T22:13:09.704Z
+date: 2024-11-15T22:24:25.010Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -89,6 +89,9 @@ Parts Needed:
 - 1x Bearing, MR148ZZ
 - Extruder Motor Plate
 ![motor_plate_1_0.png](/extruderguide/motor_plate_1_0.png)
-### Install Shaft and Primary Gear
+### Install Shaft and Primary Gear!
+![motor_plate_1_0.gif](/extruderguide/motor_plate_1_0.gif)
+Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
+flush or below the surface of the part.
 
 
