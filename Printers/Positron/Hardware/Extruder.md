@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T21:26:56.809Z
+date: 2024-11-15T22:13:09.704Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -52,20 +52,22 @@ STL models can be found on the [Positron Printed Parts Github](https://github.co
 
 ![extruder_parts_transp.png](/extruderguide/extruder_parts_transp.png)
 
-## Assemble
-### Prepare the Printed Parts
+# Assemble
+## Prepare the Printed Parts
 > Install heat set inserts into the printed parts
 {.is-info}
 
 Parts Needed:
 - 1x Heat set Insert, Brass, M3x6x5
 - 3x Heat set Insert, Brass, M2.5x3x4
-#### Guilder
+- Extruder Guidler
+- Extruder Main Body
+### Guilder
 ![guilder.gif](/extruderguide/guilder.gif)
 
 Install an M3x6x5 heat set insert into the printed guidler.
 
-#### Extruder Main Body
+### Extruder Main Body
 > Batch 1 Extruder Main Body did not use heat set insert but had screws that threaded directly into the printed part.
 {.is-info}
 
@@ -75,9 +77,18 @@ Install M2.5x3x4 heat set inserts into the printed extruder main body.
 
 ---
 
-### Motor Plate and Planetary Gears
+## Motor Plate and Planetary Gear Shaft
 > For all the M2.5 screws, please use the included LDO screwdriver.
 {.is-warning}
 
+Parts Needed:
+- 1x Bearing, MF148ZZ
+- 1x M3x3 Set Screw
+- 1x Spider Shaft
+- 1x Primary Gear
+- 1x Bearing, MR148ZZ
+- Extruder Motor Plate
+![motor_plate_1_0.png](/extruderguide/motor_plate_1_0.png)
+### Install Shaft and Primary Gear
 
 
