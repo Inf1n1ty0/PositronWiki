@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T22:24:25.010Z
+date: 2024-11-15T22:37:00.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -65,7 +65,7 @@ Parts Needed:
 ### Guilder
 ![guilder.gif](/extruderguide/guilder.gif)
 
-Install an M3x6x5 heat set insert into the printed guidler.
+- Install the M3x6x5 heat set insert into the printed guidler.
 
 ### Extruder Main Body
 > Batch 1 Extruder Main Body did not use heat set insert but had screws that threaded directly into the printed part.
@@ -73,7 +73,7 @@ Install an M3x6x5 heat set insert into the printed guidler.
 
 ![main_body_hs.gif](/extruderguide/main_body_hs.gif)
 
-Install M2.5x3x4 heat set inserts into the printed extruder main body.
+- Install all three M2.5x3x4 heat set inserts into the printed extruder main body.
 
 ---
 
@@ -91,7 +91,13 @@ Parts Needed:
 ![motor_plate_1_0.png](/extruderguide/motor_plate_1_0.png)
 ### Install Shaft and Primary Gear!
 ![motor_plate_1_0.gif](/extruderguide/motor_plate_1_0.gif)
-Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
+- Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
 flush or below the surface of the part.
+
+---
+
+![motor_plate_2.gif](/extruderguide/motor_plate_2.gif)
+- Insert the shaft through the hole of the bearing.
+
 
 
