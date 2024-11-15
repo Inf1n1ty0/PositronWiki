@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T21:07:33.028Z
+date: 2024-11-15T21:21:14.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -13,7 +13,7 @@ This guide is for extruder hardware kit that was shipped with the Positron v3.2.
 
 ---
 
-![extruder_transp.png](/extruder_transp.png)
+![extruder_transp.png](/extruderguide/extruder_transp.png)
 
 ---
 ## Required Parts
@@ -50,7 +50,7 @@ STL models can be found on the [Positron Printed Parts Github](https://github.co
 > Models have not been scaled to account for material shrinkage
 {.is-info}
 
-![extruder_parts_transp.png](/extruder_parts_transp.png)
+![extruder_parts_transp.png](/extruderguide/extruder_parts_transp.png)
 
 ## Assemble
 ### Prepare the Printed Parts
@@ -69,7 +69,7 @@ Install an M3x6x5 heat set insert into the printed guidler.
 > Batch 1 Extruder Main Body did not use heat set insert but had screws that threaded directly into the printed part.
 {.is-info}
 
-![main_body_hs.gif](/main_body_hs.gif)
+![main_body_hs.gif](/extruderguide/main_body_hs.gif)
 
 Install M2.5x3x4 heat set inserts into the printed extruder main body.
 
