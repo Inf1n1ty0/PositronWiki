@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T21:21:14.907Z
+date: 2024-11-15T21:21:59.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -61,7 +61,7 @@ Parts Needed:
 - 1x Heat set Insert, Brass, M3x6x5
 - 3x Heat set Insert, Brass, M2.5x3x4
 #### Guilder
-![guilder.gif](/guilder.gif)
+![guilder.gif](/extruderguide/guilder.gif)
 
 Install an M3x6x5 heat set insert into the printed guidler.
 
