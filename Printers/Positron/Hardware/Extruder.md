@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T18:40:46.847Z
+date: 2024-11-15T18:44:47.485Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -47,5 +47,7 @@ List of printed parts to for the extruder assembly
 - Extruder Guidler
 
 STL models can be found on the [Positron Printed Parts Github](https://github.com/Positron3D/Positron/tree/main/Printed%20Parts%20%26%20CAD%20Models/Current%20Release%20Printed%20Parts/Extruder) 
+> Models have not been scaled to account for material shrinkage
+{.is-info}
 
 
