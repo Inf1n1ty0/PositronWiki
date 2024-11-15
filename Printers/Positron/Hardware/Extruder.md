@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T20:19:06.139Z
+date: 2024-11-15T20:24:03.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -66,6 +66,8 @@ Parts Needed:
 Install an M3x6x5 heatset insert into the printed guidler.
 
 #### Extruder Main Body
-![main_body_1_hs.gif](/main_body_1_hs.gif)
+![main_body_hs.gif](/main_body_hs.gif)
+
+Install M2.5x3x4 heatset inserts into the printed extruder main body.
 
 
