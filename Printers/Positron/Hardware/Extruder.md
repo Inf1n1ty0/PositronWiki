@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:11:02.460Z
+date: 2024-11-16T17:13:08.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -97,7 +97,7 @@ Parts Needed:
 
 ### Install CNC Shaft
 ![motor_plate_1_0.gif](/extruderguide/motor_plate_1_0.gif)
-- Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
+- Place the MF148ZZ bearing into the hole of the Extruder Motor Plate and be sure it sits
 flush or below the surface of the part.
 
 ---
