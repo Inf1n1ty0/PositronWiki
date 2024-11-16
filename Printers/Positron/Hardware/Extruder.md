@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T07:03:11.423Z
+date: 2024-11-16T17:11:02.460Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -40,7 +40,7 @@ This guide is for extruder hardware kit that was shipped with the Positron v3.2.
 - 2x Self-tapping Screw, M2x10
 - Z Endstop Micro Switch and Cable
 ### Printed Parts
-List of printed parts to for the extruder assembly
+List of printed parts for the extruder assembly
 - Extruder Main Body 
 - Extruder Motor Plate
 - Extruder Bottom Plate
