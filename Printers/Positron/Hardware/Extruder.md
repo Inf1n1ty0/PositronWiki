@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T05:49:56.011Z
+date: 2024-11-16T06:03:47.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -38,7 +38,7 @@ This guide is for extruder hardware kit that was shipped with the Positron v3.2.
 - 3x Heat set Insert, Brass, M2.5x3x4
 - 4x Machine Screw, BHCS, M2.5x18
 - 2x Self-tapping Screw, M2x10
-- Z Endstop and Cable
+- Z Endstop Micro Switch and Cable
 ### Printed Parts
 List of printed parts to for the extruder assembly
 - Extruder Main Body 
@@ -223,6 +223,12 @@ Parts Needed:
 ---
 
 ## Install the Endstop
+
+Parts Needed:
+- 2x Self-tapping Screw, M2x10
+- 1x Z Endstop Micro Switch and Cable
+- Assembled Extruder Body
+
 
 
 
