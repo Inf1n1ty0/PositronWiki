@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T03:15:00.297Z
+date: 2024-11-16T03:34:55.633Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -135,7 +135,14 @@ Parts Needed:
 ---
 
 ### Install Extruder Bottom Plate
+![lower_2.gif](/extruderguide/lower_2.gif)
+- Cover the Extruder Main Body with the Extruder Bottom Plate and press it flat. If it does not
+sit flat press the MR148ZZ bearing into the Extruder Bottom Plate first.
+- Secure Extruder Bottom Plate with three M2.5x18 BHCS Screws
+> Batch 1 uses three M2.5x10 BHCS Screws and only taps into printed part.
+{.is-info}
 
+---
 
 
 
