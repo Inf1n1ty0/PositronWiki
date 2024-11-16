@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T06:37:00.587Z
+date: 2024-11-16T06:53:25.768Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -66,7 +66,7 @@ Parts Needed:
 ---
 
 ### Guilder
-![guilder.gif](/extruderguide/guilder.gif)
+![heatset_guidler_1_1.gif](/extruderguide/heatset_guidler_1_1.gif)
 
 - Install the M3x6x5 heat set insert into the printed guidler.
 
@@ -163,7 +163,8 @@ Parts Needed:
 - Piece of filament
 - Assembled Extruder Body
 
-![filament_path.png](/filament_path.png)
+![filament_path.png](/extruderguide/filament_path.png)
+
 - First loosen the M3x3 Set Screw so the Primary Gear can slide up and down.
 - Insert a piece of filament as shown in above photo.
 - Align the Primary Gear so the filament is centered and tighten down the M3x3 Set Screw.
@@ -177,7 +178,7 @@ Part Needed:
 - 1x Machine Screw, BHCS, M2.5x18
 - Assembled Extruder Main Body
 - Extruder Guidler
-![guilder_install_4_1.png](/guilder_install_4_1.png)
+
 
 ---
 
