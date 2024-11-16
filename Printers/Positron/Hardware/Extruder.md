@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-15T22:53:30.481Z
+date: 2024-11-16T02:20:59.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -102,9 +102,12 @@ flush or below the surface of the part.
 ---
 ![motor_plate_3.gif](/extruderguide/motor_plate_3.gif)
 - Place primary gear onto shaft
-- Screw in M3x3 Set Screw through the gear and onto the flat spot of the CNC Shaft,
-but don't tightened all the way down. Primary gear should move up and down but not fall off.
-- Place the MR148ZZ bearing on the end of the shaft and set assembled part aside for later.
+- Line up the hole in the gear with the flat spot on the CNC Shaft.
+- Screw in the Set Screw through the gear and stop right before it touches the flat spot on the CNC Shaft. 
+- Now slide the gear all the way down the CNC shaft until the Set Screw hits the end of the flat spot.
+- Tightened down the Set Screw until the gear doesn't move, the height of the gear will be adjusted later.
+- Place the MR148ZZ bearing on the end of the shaft and get ready for the next step.
+
 
 ---
 
