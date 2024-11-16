@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:24:36.455Z
+date: 2024-11-16T17:25:00.819Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -162,7 +162,7 @@ Parts Needed:
 ## Check Filament Path
 
 Parts Needed:
-- Piece of filament longer than extruder
+- Piece of filament longer than the extruder
 - Assembled Extruder Body
 
 ![filament_path.png](/extruderguide/filament_path.png)
