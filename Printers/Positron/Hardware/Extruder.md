@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T04:55:21.830Z
+date: 2024-11-16T05:36:32.027Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -175,7 +175,7 @@ Parts Needed:
 Part Needed:
 - 1x Machine Screw, BHCS, M3x25
 - 1x Machine Screw, BHCS, M2.5x18
-- Extruder Main Body
+- Assembled Extruder Main Body
 - Extruder Guidler
 ![guilder_install_4_1.png](/guilder_install_4_1.png)
 
@@ -183,5 +183,37 @@ Part Needed:
 
 ### Secure Guilder
 ![guilder_install_1.gif](/guilder_install_1.gif)
+- Position the Extruder Guidler into the Extruder Main Body. 
+- Secure with a M3x25 BHCS Screw. The screw taps into the Extruder Bottom plate.
+
+---
+
+### Anchor Motor Plate
+![guilder_install_2_2.gif](/guilder_install_2_2.gif)
+- Secure Extruder Motor Plate with a M2.5x18 BHCS Screw. Screw taps directly into the printed parts.
+
+---
+
+## Install the Bowden Coupler
+
+Parts Needed:
+- 1x ECAS04 Bowden Coupler
+- Assembled Extruder Body
+
+![bowden_coupler_1_1.gif](/bowden_coupler_1_1.gif)
+
+- Remove any rubber from the Bowden Coupler
+- Install the Bowden Coupler into the extruder. The Bowden Coupler flange should be flush with the Extruder Body.
+
+---
+
+## Install the Thumbscrew
+
+Parts Needed:
+- 1x Thumbscrew, M3x30
+- 1x Spring, 1x5.9x11.3mm
+- 1x Shim Washer, 3x6x0.5mm
+- Assembled Extruder Body
+
 
 
