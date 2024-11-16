@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T06:03:47.522Z
+date: 2024-11-16T06:32:58.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -228,6 +228,13 @@ Parts Needed:
 - 2x Self-tapping Screw, M2x10
 - 1x Z Endstop Micro Switch and Cable
 - Assembled Extruder Body
+![endstop_3.png](/endstop_3.png)
+
+- Using the photo above prebend the wires on the Z Endstop with the lever facing down, in preparation to mount it.
+
+---
+![endstop_1.gif](/endstop_1.gif)
+- Secure the endstop to the printed part using two M2x10 Self-taping screws.
 
 
 
