@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:26:13.366Z
+date: 2024-11-16T17:27:34.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -186,7 +186,7 @@ Part Needed:
 
 ### Secure Guilder
 ![guilder_install_1_1.gif](/extruderguide/guilder_install_1_1.gif)
-- Position the Extruder Guidler into the Extruder Main Body. 
+- Position the Extruder Guidler with gear teeth side up and into the Extruder Main Body. 
 - Secure with a M3x25 BHCS Screw. The screw taps into the Extruder Bottom plate.
 
 ---
