@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T03:34:55.633Z
+date: 2024-11-16T04:05:57.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -143,6 +143,19 @@ sit flat press the MR148ZZ bearing into the Extruder Bottom Plate first.
 {.is-info}
 
 ---
+
+## Prepare the Extruder Guidler
+
+Parts Needed:
+- 1x Bushing, POM, 8x4x11
+- 1x Idler Gear, Orbiter 2
+- 1x Shaft, 4x16
+- Extruder Guidler
+
+![guidler_1_1.gif](/extruderguide/guidler_1_1.gif)
+
+---
+## Check Filament Path
 
 
 
