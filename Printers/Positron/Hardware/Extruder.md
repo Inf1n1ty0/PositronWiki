@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T04:29:29.354Z
+date: 2024-11-16T04:55:21.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -168,5 +168,20 @@ Parts Needed:
 - Insert a piece of filament as shown in above photo.
 - Align the Primary Gear so the filament is centered and tighten down the M3x3 Set Screw.
 
+---
+
+## Install the Extruder Guidler
+
+Part Needed:
+- 1x Machine Screw, BHCS, M3x25
+- 1x Machine Screw, BHCS, M2.5x18
+- Extruder Main Body
+- Extruder Guidler
+![guilder_install_4_1.png](/guilder_install_4_1.png)
+
+---
+
+### Secure Guilder
+![guilder_install_1.gif](/guilder_install_1.gif)
 
 
