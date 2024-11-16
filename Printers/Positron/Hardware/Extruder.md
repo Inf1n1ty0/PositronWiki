@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:13:08.645Z
+date: 2024-11-16T17:14:00.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -103,7 +103,7 @@ flush or below the surface of the part.
 ---
 
 ![motor_plate_2.gif](/extruderguide/motor_plate_2.gif)
-- Insert the shaft through the hole of the bearing.
+- Insert the Spider Shaft through the opening of the MG148ZZ bearing.
 
 ### Install Primary Gear
 ---
