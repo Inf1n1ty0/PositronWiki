@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T06:54:28.747Z
+date: 2024-11-16T07:03:11.423Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -183,14 +183,14 @@ Part Needed:
 ---
 
 ### Secure Guilder
-![guilder_install_1.gif](/guilder_install_1.gif)
+![guilder_install_1_1.gif](/extruderguide/guilder_install_1_1.gif)
 - Position the Extruder Guidler into the Extruder Main Body. 
 - Secure with a M3x25 BHCS Screw. The screw taps into the Extruder Bottom plate.
 
 ---
 
 ### Anchor Motor Plate
-![guilder_install_2_2.gif](/guilder_install_2_2.gif)
+![guilder_install_2_3.gif](/extruderguide/guilder_install_2_3.gif)
 - Secure Extruder Motor Plate with a M2.5x18 BHCS Screw. Screw taps directly into the printed parts.
 
 ---
@@ -201,7 +201,7 @@ Parts Needed:
 - 1x ECAS04 Bowden Coupler
 - Assembled Extruder Body
 
-![bowden_coupler_1_1.gif](/bowden_coupler_1_1.gif)
+![bowden_coupler_1_1.gif](/extruderguide/bowden_coupler_1_1.gif)
 
 - Remove any rubber from the Bowden Coupler
 - Install the Bowden Coupler into the extruder. The Bowden Coupler flange should be flush with the Extruder Body.
@@ -216,8 +216,7 @@ Parts Needed:
 - 1x Shim Washer, 3x6x0.5mm
 - Assembled Extruder Body
 
-![thumbscrew.gif](/thumbscrew.gif)
-
+![thumbscrew.gif](/extruderguide/thumbscrew.gif)
 - While holding the Thumbscrew, drop the Spring onto the bolt end followed by the Shim Washer. 
 - Insert Thumbscrew from opposite side of the Guidler and thread into the Heat Set insert until Thumbscrew head is flush with the printed part above it. 
 
@@ -229,17 +228,18 @@ Parts Needed:
 - 2x Self-tapping Screw, M2x10
 - 1x Z Endstop Micro Switch and Cable
 - Assembled Extruder Body
-![endstop_3.png](/endstop_3.png)
 
+![endstop_3.png](/extruderguide/endstop_3.png)
 - Using the photo above prebend the wires on the Z Endstop with the lever facing down, in preparation to mount it.
 
 ---
-![endstop_1.gif](/endstop_1.gif)
+
+![endstop_1.gif](/extruderguide/endstop_1.gif)
 - Secure the endstop to the printed part using two M2x10 Self-taping screws.
 
 ## Extruder Complete
 - Congratulations the extruder is complete, the motor will be mounted towards the end of the Positron v3.2 assembly.
-![complete.png](/complete.png)
+![complete.png](/extruderguide/complete.png)
 
 
 
