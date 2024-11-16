@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T05:36:32.027Z
+date: 2024-11-16T05:49:56.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -214,6 +214,16 @@ Parts Needed:
 - 1x Spring, 1x5.9x11.3mm
 - 1x Shim Washer, 3x6x0.5mm
 - Assembled Extruder Body
+
+![thumbscrew.gif](/thumbscrew.gif)
+
+- While holding the Thumbscrew, drop the Spring onto the bolt end followed by the Shim Washer. 
+- Insert Thumbscrew from opposite side of the Guidler and thread into the Heat Set insert until Thumbscrew head is flush with the printed part above it. 
+
+---
+
+## Install the Endstop
+
 
 
 
