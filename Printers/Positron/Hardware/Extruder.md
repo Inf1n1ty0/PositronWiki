@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T04:05:57.863Z
+date: 2024-11-16T04:10:11.933Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -153,7 +153,9 @@ Parts Needed:
 - Extruder Guidler
 
 ![guidler_1_1.gif](/extruderguide/guidler_1_1.gif)
-
+- Place the bushing into Idler Gear.
+- Rotate Extruder Guidler so larger opening is facing up.
+- Position the Idler Gear into the opening of the Extruder Guidler and secure with the 4x16 Shaft (Smooth end first)
 ---
 ## Check Filament Path
 
