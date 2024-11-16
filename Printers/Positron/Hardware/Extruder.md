@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:14:00.453Z
+date: 2024-11-16T17:24:02.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -108,10 +108,10 @@ flush or below the surface of the part.
 ### Install Primary Gear
 ---
 ![motor_plate_3.gif](/extruderguide/motor_plate_3.gif)
-- Slide the Primary Gear onto the CNC Shaft.
-- Line up the hole in the Gear with the flat spot on the CNC Shaft.
+- Slide the Primary Gear onto the Spider Shaft.
+- Line up the hole in the Gear with the flat spot on the Spider Shaft.
 - Screw in the Set Screw through the gear and stop right before it touches the flat spot. 
-- Now slide the gear all the way down the CNC shaft until the Set Screw hits the end of the flat spot.
+- Now slide the gear all the way down the Spider Shaft until the Set Screw hits the end of the flat spot.
 - Tightened down the Set Screw until the gear doesn't move, the height of the gear will be adjusted later.
 - Place the MR148ZZ bearing on the end of the shaft and get ready for the next step.
 
@@ -121,6 +121,7 @@ flush or below the surface of the part.
 
 Parts Needed:
 - 3x Machine Screw, BHCS, M2.5x18
+- Assembled Extruder Motor Plate
 - Extruder Main Body
 - Extruder Bottom Plate
 
@@ -155,7 +156,8 @@ Parts Needed:
 ![guidler_1_1.gif](/extruderguide/guidler_1_1.gif)
 - Place the bushing into Idler Gear.
 - Rotate Extruder Guidler so larger opening is facing up.
-- Position the Idler Gear into the opening of the Extruder Guidler and secure with the 4x16 Shaft (Smooth end first)
+- Position the Idler Gear (Gear teeth side down) into the opening of the Extruder Guidler and secure with the 4x16 Shaft (Smooth end first)
+- The 4x16 Shaft has knurling on one end. Press fit the Shaft into the Extruder Guidler until it is flush and holds the Idler Gear in place. 
 ---
 ## Check Filament Path
 
