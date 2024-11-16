@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T17:25:00.819Z
+date: 2024-11-16T17:26:13.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -169,7 +169,7 @@ Parts Needed:
 
 - First loosen the M3x3 Set Screw so the Primary Gear can slide up and down.
 - Insert a piece of filament as shown in above photo.
-- Align the Primary Gear so the filament is centered and tighten down the M3x3 Set Screw.
+- Align the Primary Gear so the filament teeth are centered on the filament and the exit path for filament, and tighten down the M3x3 Set Screw.
 
 ---
 
