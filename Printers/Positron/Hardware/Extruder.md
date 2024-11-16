@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T06:32:58.479Z
+date: 2024-11-16T06:37:00.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -236,7 +236,9 @@ Parts Needed:
 ![endstop_1.gif](/endstop_1.gif)
 - Secure the endstop to the printed part using two M2x10 Self-taping screws.
 
-
+## Extruder Complete
+- Congratulations the extruder is complete, the motor will be mounted towards the end of the Positron v3.2 assembly.
+![complete.png](/complete.png)
 
 
 
