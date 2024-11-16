@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T04:10:11.933Z
+date: 2024-11-16T04:28:34.334Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -158,6 +158,15 @@ Parts Needed:
 - Position the Idler Gear into the opening of the Extruder Guidler and secure with the 4x16 Shaft (Smooth end first)
 ---
 ## Check Filament Path
+
+Parts Needed:
+- Piece of filament
+- Assembled Extruder Body
+
+![filament_path.png](/filament_path.png)
+- First loosen the M3x3 Set Screw so the Primary Gear can slide up and down.
+- Insert a piece of filament as shown in above photo.
+- Aligned the Primary Gear so the filament is centered and tighten down the M3x3 Set Screw.
 
 
 
