@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T03:00:58.886Z
+date: 2024-11-16T03:15:00.297Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -128,7 +128,13 @@ Parts Needed:
 
 ---
 ### Main Extruder Body
+![lower_1_2.gif](/extruderguide/lower_1_2.gif)
+- Combine the Extruder Motor Plate and Extruder Main Body.
+- Flip over for next step.
 
+---
+
+### Install Extruder Bottom Plate
 
 
 
