@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T02:31:51.510Z
+date: 2024-11-16T03:00:58.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -62,6 +62,9 @@ Parts Needed:
 - 3x Heat set Insert, Brass, M2.5x3x4
 - Extruder Guidler
 - Extruder Main Body
+
+---
+
 ### Guilder
 ![guilder.gif](/extruderguide/guilder.gif)
 
@@ -89,6 +92,9 @@ Parts Needed:
 - 1x Bearing, MR148ZZ
 - Extruder Motor Plate
 ![motor_plate_1_0.png](/extruderguide/motor_plate_1_0.png)
+
+---
+
 ### Install CNC Shaft
 ![motor_plate_1_0.gif](/extruderguide/motor_plate_1_0.gif)
 - Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
@@ -112,6 +118,17 @@ flush or below the surface of the part.
 ---
 
 ## Install Lower Half
+
+Parts Needed:
+- 3x Machine Screw, BHCS, M2.5x18
+- Extruder Main Body
+- Extruder Bottom Plate
+
+![lower_complete.png](/extruderguide/lower_complete.png)
+
+---
+### Main Extruder Body
+
 
 
 
