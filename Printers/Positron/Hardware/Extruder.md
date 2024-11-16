@@ -2,7 +2,7 @@
 title: Legacy Extruder
 description: Extruder Guide for v3.2.0 - v3.2.1
 published: true
-date: 2024-11-16T02:20:59.514Z
+date: 2024-11-16T02:31:51.510Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-15T17:51:07.879Z
@@ -89,7 +89,7 @@ Parts Needed:
 - 1x Bearing, MR148ZZ
 - Extruder Motor Plate
 ![motor_plate_1_0.png](/extruderguide/motor_plate_1_0.png)
-### Install Shaft and Primary Gear!
+### Install CNC Shaft
 ![motor_plate_1_0.gif](/extruderguide/motor_plate_1_0.gif)
 - Place the MF148ZZ bearing into the hole of the printed motor plate and be sure it sits
 flush or below the surface of the part.
@@ -99,17 +99,20 @@ flush or below the surface of the part.
 ![motor_plate_2.gif](/extruderguide/motor_plate_2.gif)
 - Insert the shaft through the hole of the bearing.
 
+### Install Primary Gear
 ---
 ![motor_plate_3.gif](/extruderguide/motor_plate_3.gif)
-- Place primary gear onto shaft
-- Line up the hole in the gear with the flat spot on the CNC Shaft.
-- Screw in the Set Screw through the gear and stop right before it touches the flat spot on the CNC Shaft. 
+- Slide the Primary Gear onto the CNC Shaft.
+- Line up the hole in the Gear with the flat spot on the CNC Shaft.
+- Screw in the Set Screw through the gear and stop right before it touches the flat spot. 
 - Now slide the gear all the way down the CNC shaft until the Set Screw hits the end of the flat spot.
 - Tightened down the Set Screw until the gear doesn't move, the height of the gear will be adjusted later.
 - Place the MR148ZZ bearing on the end of the shaft and get ready for the next step.
 
-
 ---
+
+## Install Lower Half
+
 
 
 
