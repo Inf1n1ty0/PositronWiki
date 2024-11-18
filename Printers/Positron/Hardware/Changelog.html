@@ -2,7 +2,7 @@
 title: Positron Changelog
 description: 
 published: true
-date: 2024-11-15T04:35:57.110Z
+date: 2024-11-18T14:51:01.059Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-08-01T04:08:56.844Z
@@ -49,12 +49,42 @@ dateCreated: 2024-08-01T04:08:56.844Z
 <h4>Significant Changes from the V3:</h4>
 <ul>
   <li>Guided extrusion cut for folding hinge, ensuring reliable folding/unfolding.</li>
+  <li>New Spring loaded Tension Lever to make deployment easier</li>
   <li>3mm belts replaced Synchromesh for easier maintenance and sourcing</li>
   <li>Bowden Extruder upgraded to an LDO Orbiter style extruder</li>
-  <li>Custom heatblock provided by LDO, V6 compatible.</li>
-  <li>Custom PCBs for MCU and PTH designed and provided by LDO</li>
-  <li>Completely Clear ITO Coated Heated Glass Bed</li>
-  <li>Metal Idlers instead of Synchromesh Specced Plastic Idlers.</li>
+  <li>Custom Hotend Designed by LDO and Positron<ul>
+      <li>Custom Heatblock provided by LDO, V6 compatible.</li>
+      <li>Custom 72w Bambu Style Heater Cart</li>
+      <li>Volcano Comparable speeds with High Flow filament.</li>
+    </ul>
+  </li>
+  <li>Custom PCBs for MCU and PTH designed and provided by LDO<ul>
+      <li>New Toolhead PCB (PTH) migrates to USB connection over XT30(2+2)<ul>
+          <li>Adds Accelerometer to the PTH, Allowing for out of box Input Shaper Tuning</li>
+          <li>New 10k High Speed / High CFM Fan for compact cooling</li>
+        </ul>
+      </li>
+      <li>Fully custom PCB (MCU) incorporates all mainstream features into an ultra-compact form fitting board<ul>
+          <li>Adds Ethernet Port, USB Hub, USB C Connection, XT30(2+2) Toolhead Connection</li>
+          <li>Built in motor drivers, using baseplate as a heatsink.<ul>
+              <li>Supports Physical endstops on all axis</li>
+            </ul>
+          </li>
+          <li>Built in expansion capability<ul>
+              <li>Filament Ronout Sensor with Extruder Endstop Pins</li>
+              <li>ABL Options available with servo pins and probe pins</li>
+              <li>Additional Thermistor connections</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Completely Clear ITO Coated Heated Glass Bed<ul>
+      <li>Supports up to 90°C, providing excellent observation of first layer performance.</li>
+    </ul>
+  </li>
+  <li>Metal Idlers instead of Synchromesh Spec Plastic Idlers.</li>
   <li>External Display Connected to MCU by USB C, containing the RPi CM4 externally.</li>
   <li>Added cutout for a internal power supply (future upgrade option)</li>
   <li>Added new supporting extrusion to prevent filament scraps from getting inside the printer.</li>
