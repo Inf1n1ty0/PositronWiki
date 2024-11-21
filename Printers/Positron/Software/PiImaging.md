@@ -2,15 +2,22 @@
 title: Pi Imaging
 description: Flash the Pi SD Card with a new linux OS
 published: true
-date: 2024-11-21T05:54:06.907Z
+date: 2024-11-21T06:00:22.579Z
 tags: pi, flash, update, recovery, sdcard
 editor: markdown
 dateCreated: 2024-08-01T04:11:47.615Z
 ---
 
 # IMPORTANT
-All Positrons (as well as the image itself) use a default Pi password.
+Current stock LDO Positron image uses the default Pi password.
 [**CHANGE THIS AS SOON AS POSSIBLE.**](https://www.raspberrypi-spy.co.uk/2012/10/how-to-change-raspberry-pi-password/)
+
+---
+
+***There is a beta test going on for a new tuned Positron Pi image being tested on the [Discord: PosiBerry OS](https://discord.com/channels/994721150804443266/1304602719809437848). The flashing instructions are the same as below
+but use that download link for the img file instead.***
+
+---
 
 # Touchscreen Controller Imaging and Backup 
 This is a guide to create a fresh Positron Klipper image for the Rapsberry PI CM4 touchscreen controller.
