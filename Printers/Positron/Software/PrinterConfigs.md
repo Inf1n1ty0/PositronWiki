@@ -2,7 +2,7 @@
 title: Positron Configurations
 description: Rhere to find the latest printer configs, and a brief on some settings you might need to update.
 published: true
-date: 2024-11-15T17:09:54.977Z
+date: 2024-11-21T06:02:57.973Z
 tags: configs, klipper, calibrate, configuration, calibration
 editor: markdown
 dateCreated: 2024-08-01T04:12:16.244Z
@@ -79,7 +79,7 @@ endstop_pin: probe:z_virtual_endstop    ; IR probe
 
 This will disable the endstop and use the IR (or other bed probe) for homing
 
-> The IR probe has proven unreliable, especially with glass beds. While it can be used for tramming or mesh compensation with a PCB bed, we still recommend homing with the endstop if possible.
+> The IR probe has proved unreliable on the glass bed. While it can be used for tramming or mesh compensation with a PCB bed, we still recommend homing with the endstop if possible.
 {.is-warning}
 
 ## Input Shaper
