@@ -2,7 +2,7 @@
 title: Pi Imaging
 description: Flash the Pi SD Card with a new linux OS
 published: true
-date: 2024-10-31T02:03:07.370Z
+date: 2024-11-21T05:52:25.455Z
 tags: pi, flash, update, recovery, sdcard
 editor: markdown
 dateCreated: 2024-08-01T04:11:47.615Z
@@ -25,7 +25,7 @@ When to use:
 
 ## When Not To Use
 If there are MCU connection issues a full reflash may not be needed.
-Download and add the latest printer.cfg file from [Positron GitHub](https://github.com/Positron3D/Positron/blob/main/Software%2C%20Configs%2C%20Calibration/Klipper%20Configs/printer.cfg) and try again, or proceed to [MCU Not Connecting](/Printers/Positron/Troubleshooting#mcu-not-connecting).
+Download and add the latest Positron Configs from [Positron GitHub](https://github.com/Positron3D/PositronConfig) and try again, or proceed to [MCU Not Connecting](/Printers/Positron/Troubleshooting#mcu-not-connecting).
 
 ### Supplies Needed
 - 32 GB SD card and card reader (smaller or larger SD cards, haven't been tested)
