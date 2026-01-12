@@ -22,13 +22,13 @@ but use that download link for the img file instead.***
 # Touchscreen Controller Imaging and Backup 
 This is a guide to create a fresh Positron Klipper image for the Raspberry PI CM4 touchscreen controller.
 
-When to use:
+### When To Use
 - Pi operating system is corrupted
 - Failed updates
 - Factory reset 
 - Creating a backup SD Card
 
-*Imported Note: This will completely erase the SD card, if there are custom macros or settings, download them from Fluidd first.*
+*Important Note: This will completely erase the SD card, if there are custom macros or settings, download them from Fluidd first.*
 
 ## When Not To Use
 If there are MCU connection issues a full reflash may not be needed.
@@ -46,6 +46,11 @@ Download and add the latest Positron Configs from [Positron GitHub](https://gith
 clone of the LDO provided SD Card with the empty space removed.
 3. If using flash from URL, open Etcher, select flash from URL, copy URL from below, and paste in the "Enter Valid URL" box.
 
+Posiberry OS IMG link below:
+```
+https://posidownload.thenetworkingguy.net/PosiBerry.img.gz
+```
+*Note: When using PosiberryOS, please set "posibery" as password.*
 ```
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbGF2SWF5dEpPcUZnWllOTDhOc01nSGpDemRGM1E_ZW1iZWQ9MQ/root/content
 ```
@@ -98,3 +103,14 @@ then power on the machine.
   5. Now the Positron can be power down and flash drive removed.
   6. The uncompressed .img file uses about 6GB of space but will shrink to around 2GB if compressed to a .zip or .gz.
   Etcher can flash a SD Card from a zip or gz file, so it is fine to leave the backup compressed to save space.
+
+## Post-Flash
+If the Positron logo bootsplash/boot animation does not show up upon boot, you can fix it back to the positron one with this following command.
+```
+sudo plymouth-set-default-theme -R positron-bgrt
+```
+This command should display the full list of available animations already downloaded.
+```
+plymouth-set-default-theme --list
+```
+*Plymouth is the utility for the animation, there is a huge list of available animations that can be downloaded, as it is/was commonly used for Android devices.*
