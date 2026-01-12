@@ -20,7 +20,7 @@ but use that download link for the img file instead.***
 ---
 
 # Touchscreen Controller Imaging and Backup 
-This is a guide to create a fresh Positron Klipper image for the Rapsberry PI CM4 touchscreen controller.
+This is a guide to create a fresh Positron Klipper image for the Raspberry PI CM4 touchscreen controller.
 
 When to use:
 - Pi operating system is corrupted
@@ -32,7 +32,7 @@ When to use:
 
 ## When Not To Use
 If there are MCU connection issues a full reflash may not be needed.
-Download and add the latest Positron Configs from [Positron GitHub](https://github.com/Positron3D/PositronConfig) and try again, or proceed to [MCU Not Connecting](/Printers/Positron/Hardware/Troubleshooting#mcu-not-connecting).
+Download and add the latest Positron Configs from [Positron GitHub](https://github.com/Positron3D/PositronConfig) and try again or proceed to [MCU Not Connecting](/Printers/Positron/Hardware/Troubleshooting#mcu-not-connecting).
 
 ### Supplies Needed
 - 32 GB SD card and card reader (smaller or larger SD cards, haven't been tested)
@@ -67,15 +67,15 @@ then power on the machine.
 	1. Find the IP address of touchscreen from the onscreen buttons, menu -> network. If the RpiHotspot is turned off the IP
   address will be listed on the top line. The HotSpot button can be toggled if the IP address has not appeared yet.
   2. From a computer open either a terminal, Windows PowerShell, or use a program like [Putty](https://www.putty.org/)
-  3. Next log into the touch using SSH, the default user name is "pi" and password is "raspberry". Below shows an example of a SSH command using Windows PowerShell and username "pi".
+  3. Next log into the touch using SSH, the default username is "pi" and password is "raspberry". Below shows an example of a SSH command using Windows PowerShell and username "pi".
   ```
   ssh pi@EnterIpAdressHere
   ```
   4. If using Windows PowerShell, it will prompt for the password but won't display anything when typing, just press enter when done.
   
  ### Perform Backup
- Once logged into the Rapsberry Pi touchscreen controller using SSH, follow these steps to access the USB Drive to perform a backup.
- There are many different ways to perform the individual steps, but these work for this touchscreen.
+ Once logged into the Raspberry Pi touchscreen controller using SSH, follow these steps to access the USB Drive to perform a backup.
+ There are several distinct ways to perform the individual steps, but these work for this touchscreen.
 - Enter these from the SSH terminal or command line, they may prompt for the password again.
 	1. Make a location for the flash drive to mount to.
   ``` 
@@ -90,7 +90,7 @@ then power on the machine.
   sudo image-check /media/USBDRIVE/PositronV32_stock.img
   ```
   4. If flash drive has the file PositronV32_stock.img the following command will update it and not create a duplicate.
-  Otherwise it will create a new backup .img with the name PositronV32_stock.img, any name that ends in .img can be used here. 
+  Otherwise, it will create a new backup .img with the name PositronV32_stock.img, any name that ends in .img can be used here. 
   It is roughly 15 minutes to make a new .img or a few seconds to update an exising .img.
   ```
   sudo image-backup /media/USBDRIVE/PositronV32_stock.img
@@ -98,6 +98,3 @@ then power on the machine.
   5. Now the Positron can be power down and flash drive removed.
   6. The uncompressed .img file uses about 6GB of space but will shrink to around 2GB if compressed to a .zip or .gz.
   Etcher can flash a SD Card from a zip or gz file, so it is fine to leave the backup compressed to save space.
-  
-  
-
