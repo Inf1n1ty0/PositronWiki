@@ -14,8 +14,7 @@ Current stock LDO Positron image uses the default Pi password.
 
 ---
 
-***There is a beta test going on for a new tuned Positron Pi image being tested on the [Discord: PosiBerry OS](https://discord.com/channels/994721150804443266/1304602719809437848). The flashing instructions are the same as below
-but use that download link for the img file instead.***
+***There a new tuned Positron Pi image now available. More info available at [Discord: PosiBerry OS](https://discord.com/channels/994721150804443266/1304602719809437848). The flashing instructions are the same as below, but use that download link for the img file instead.***
 
 ---
 
