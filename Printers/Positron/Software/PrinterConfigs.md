@@ -1,6 +1,6 @@
 ---
 title: Positron Configurations
-description: Rhere to find the latest printer configs, and a brief on some settings you might need to update.
+description: There to find the latest printer configs, and a brief on some settings you might need to update.
 published: true
 date: 2024-11-21T06:04:18.105Z
 tags: configs, klipper, calibrate, configuration, calibration
@@ -18,7 +18,7 @@ You want the hottest, freshest, bestest configs? Check out the [PositronConfig o
 ## Sensorless Homing Sensitivity
 The Positron uses StallGuard sensorless homing for the X and Y axis. We've provided a 'middle of the road' setting as stock, but variations in the linear rails, bearings, lubricants, etc. may cause these setting to not work on your printer. Even if they do work, tuning your sensorless homing can improve the reliability and gentleness of the procedure.
 
-The `driver_SGTHRS` parameter in the `[tmc2209 stepper_x]` and `[tmc2209 stepper_y]` sections of `printer.cfg` determine the homing sensitivity for each axis. Our stocl value is `48`, but that can be increased to make it more sensitive (if the printer is crashing too hard into the endstops) or decreased to make it less sensitive (of ot triggers prematurely).
+The `driver_SGTHRS` parameter in the `[tmc2209 stepper_x]` and `[tmc2209 stepper_y]` sections of `printer.cfg` determine the homing sensitivity for each axis. Our stock value is `48`, but that can be increased to make it more sensitive (if the printer is crashing too hard into the endstops) or decreased to make it less sensitive (if it triggers prematurely).
 
 Alternatively, you can do a tune the sensitivities live using the Klipper console in Fluidd or KlipperScreen:
 
@@ -32,16 +32,16 @@ Then test the value by homing the X axis:
 
 `G28 X`
 
-This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we recommend  reducing by increments of 5), testing in between, until your X axis is reliably (but still nonviolently) homing.
+This will likely cause your printer to home X too early, the higher the number in `VALUE` the higher the sensitivity of the sensorless homing. Re-run this command with a slightly lower value (we recommend reducing by increments of 5), testing in between, until your X axis is reliably (but still non-violently) homing.
 
-Once you've found a value you're happy with, save it by setting that value in `printer.cfg`:
+Once you've found a value, you're happy with, save it by setting that value in `printer.cfg`:
 ```properties
 [tmc2209 stepper_x]
 diag_pin: ^gpio16
 driver_SGTHRS: -> UPDATE THIS VALUE <-
 ```
 
-Repeat this process for the Y axis using;
+Repeat this process for the Y axis using:
 
 `SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=60`
 
@@ -83,7 +83,7 @@ This will disable the endstop and use the IR (or other bed probe) for homing
 {.is-warning}
 
 ## Input Shaper
-While all releases of the Positron v3.2 have a toolhead accelerometer, the preinstalled sd card wasn't always set up to use it. If input shaping isn't working or is throwing an error, try installing the required dependencies:
+While all releases of the Positron v3.2 have a toolhead accelerometer, the preinstalled SD card wasn't always set up to use it. If input shaping isn't working or is throwing an error, try installing the required dependencies:
 
 1. SSH into your Positron
 2. Run:
